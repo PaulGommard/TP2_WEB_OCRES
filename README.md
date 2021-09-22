@@ -16,7 +16,6 @@ A lire impérativement avant de commencer quoi que ce soit, ce sont les règles 
 2. Centrer les éléments sur la page grace à un container Bootstrap
 
 3. Utiliser la [grille](https://getbootstrap.com/docs/4.2/layout/grid/) fluide de Bootstrap pour définir la largeur des éléments :
-
    - Menu
    - Partie principale
 
