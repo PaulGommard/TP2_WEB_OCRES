@@ -189,13 +189,13 @@ input.submit {
 #albums article figcaption {
     color: #4b5c66;
     margin-top: 6px;
-    white-space: nowrap;
+    white-space: break-spaces;
     text-overflow: ellipsis;
 }
 
 #albums article .artist, #albums article .count {
     margin-top: 4px;
-    white-space: nowrap;
+    white-space: break-spaces;
     text-overflow: ellipsis;
 }
 
