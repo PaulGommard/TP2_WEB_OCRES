@@ -54,7 +54,7 @@ main article {
 h3 {
     color: #b8c3c9;
     text-transform: uppercase;
-    font-size: 1em;
+    font-size: 0.5em;
     font-weight: normal;
     margin-bottom: 10px;
 }
@@ -255,7 +255,7 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
     }
 
     h3 {
-        font-size: 1em;
+        font-size: 0.5em;
     }
 
     header .user a {
